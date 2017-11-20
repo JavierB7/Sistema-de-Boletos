@@ -1,4 +1,4 @@
-# Programación II - Parcial III, Práctica 1
+# Programación II - Parcial III, Proyecto 1
 
 **Team**: 
 
@@ -10,5 +10,6 @@ Marco T. Ramirez G.
 
 *Ejercicio*:
 
-**1-** Sistema de Registro de Revisiones
+**1-** Sistema de Registro de Eventos
 
+**Framework**: Laravel
